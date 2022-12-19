@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "main.app",
+        "profile_name": "zappa",
+        "project_name": "openai-dalle",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-vws9jwch3"
+    }
+}
